@@ -32,3 +32,27 @@ ul {
   text-align: center;
   border-style: solid;
 }
+
+.bigHeader {
+  font-size: 40px;
+}
+
+.smallerHeader {
+  font-size: 20px;
+}
+
+.tinyHeader {
+  font-size: 10px;
+}
+
+#blueText {
+  color: blue;
+}
+
+#redText {
+  color: red;
+}
+
+#greenText {
+  color: green;
+}
